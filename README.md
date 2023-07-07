@@ -1,3 +1,7 @@
+# Description
+
+This is a fork of Omnibus。Omnibus is a good tools to create full-stack installer for many platform(Linux,OS X,Windows).
+
 # ![Omnibus Icon](lib/omnibus/assets/README-logo.png) Omnibus
 
 [![Gem Version](http://img.shields.io/gem/v/omnibus.svg)][gem]
