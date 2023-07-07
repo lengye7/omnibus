@@ -1,6 +1,6 @@
 # Description
 
-This is a fork of Omnibus。Omnibus is a good tools to create full-stack installer for many platform(Linux,OS X,Windows).
+This is a fork of Omnibus.Omnibus is a good tools to create full-stack installer for many platform(Linux,OS X,Windows).
 
 # ![Omnibus Icon](lib/omnibus/assets/README-logo.png) Omnibus
 
